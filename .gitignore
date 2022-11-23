@@ -1,3 +1,4 @@
 *.tif
 *.csv
 *.DS_Store
+logs/*
